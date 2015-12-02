@@ -1,0 +1,1 @@
+一、安装NodeJs    进入Nodejs官网，选择与本机系统相应的NodeJs版本下载后安装。二、安装express    以管理员身份，运行控制台（cmd)    运行 npm install -g express-generator三、安装git    进入git官网，选择与本机系统相应的git版本下载后安装。四、拉取项目到本地五、项目运行    以管理员身份，运行控制台（cmd)，将当前目录切换到项目的myApp目录下    运行 set DEBUG=myApp&npm start    打开浏览器输入localhost:3000
